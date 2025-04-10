@@ -1,45 +1,153 @@
-# Olá, sou o Gabriel Attuy 👋
+# 👨‍💻 Gabriel Attuy
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabs-Attuy&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabs-Attuy&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+**`Desenvolvedor Backend`**
+
+Me chamo Gabriel Santos Attuy, tenho 21 anos e sou natural de São Paulo. Sou estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC, atualmente cursando o 5º e último período.  
+Sou apaixonado por tecnologia e desenvolvimento de sistemas e estou em busca da minha primeira oportunidade de emprego na área.
 
 ## 📫 Contato
-<div> 
-  <a href="mailto:cmp.1a.gabrielattuy1010@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-attuy-197010265/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
+
+<a href="mailto:cmp.1a.gabrielattuy1010@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/gabriel-attuy-197010265/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
 
 ## 🛠️ Tecnologias que utilizo:
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="REACTNATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="AzureVM" src="https://img.shields.io/badge/Azure_VM-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
-  <img align="center" alt="AzureBlobs" src="https://img.shields.io/badge/Azure_Blob_Storage-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div><br/>
 
-## 👨‍💻 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas no SENAC-SP, atualmente cursando o 5º e último semestre.  
-Sou apaixonado por tecnologia e desenvolvimento de sistemas, com foco no backend utilizando **Java** e **Spring**.  
+<img
+  align="left"
+  alt="Java"
+  title="Java"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img
+  align="left"
+  alt="Spring"
+  title="Spring"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+  align="left"
+  alt="CSS"
+  title="CSS"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+  align="left"
+  alt="JavaScript"
+  title="JavaScript"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+  align="left"
+  alt="TypeScript"
+  title="TypeScript"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img
+  align="left"
+  alt="React Native"
+  title="React Native"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img
+  align="left"
+  alt="Git"
+  title="Git"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+  align="left"
+  alt="Azure"
+  title="Azure"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+/>
+<img
+  align="left"
+  alt="AWS"
+  title="AWS"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+/>
+<img
+  align="left"
+  alt="Docker"
+  title="Docker"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+<img
+  align="left"
+  alt="Redis"
+  title="Redis"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
+/>
+<img
+  align="left"
+  alt="Linux"
+  title="Linux"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+
+<br/>
+<br/>
+<br/>
+
+## 📊 Estatísticas
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabs-Attuy&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabs-Attuy&layout=compact&custom_title=Tecnologias&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
+</div> 
+
+---
 
 ## 🚀 Últimos projetos
 
 ### [FoodConnect](https://github.com/jcavalcantee/food-connect-app)
-- Aplicação mobile multiplataforma desenvolvida para otimizar o atendimento nas praças de alimentação do campus SENAC.
+- Aplicativo mobile multiplataforma criado para otimizar o atendimento nas praças de alimentação do campus SENAC.
 - Projeto em grupo | Responsável pela API e desenvolvimento mobile.
 - Tecnologias utilizadas:  
   Java · Spring · Azure Virtual Machine · Azure Blobs · Docker · Redis · MySQL · React Native · TypeScript · CSS
@@ -50,9 +158,12 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas, com foco no backend
 - Tecnologias utilizadas:  
   Java · Spring · MySQL · Azure Blobs · Azure Virtual Machine · HTML · CSS · JavaScript · Bootstrap
 
-## 📚 Atualmente estudando:
+---
+
+## 📚 Atualmente estudando
+
 - Docker
-- AWS para certificação Cloud Practioner
+- AWS (certificação Cloud Practitioner)
 - CI/CD com GitHub Actions
 - Testes de Software com JUnit5 e Mockito
 
