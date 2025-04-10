@@ -133,7 +133,6 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas e estou em busca da 
 
 <br clear="left"/>
 <br/>
-<br/>
 
 ## 📊 Estatísticas
 
