@@ -131,7 +131,7 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas e estou em busca da 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 
-<br/>
+<br clear="left"/>
 <br/>
 <br/>
 
